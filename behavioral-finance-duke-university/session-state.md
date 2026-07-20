@@ -6,27 +6,26 @@
 ---
 
 ### 📍 Current Position
-* **Current Module:** Module 1 (Sourcing & Screening)
-* **Status:** Initializing Workspace Setup
-* **Last Updated:** 2026-07-16
+* **Current Module:** Modules 1-4 (Academic Foundations & PE/VC Applications)
+* **Status:** Master LaTeX Study Notes Generated & Saved
+* **Last Updated:** 2026-07-19
 
 ---
 
 ### 🎯 Active Focus Areas & Deliverables
-- [ ] Read syllabus materials for Module 1 (Expected Utility vs. Prospect Theory, Narrative Fallacy)
-- [ ] Set up the first draft of the "Venture Capital Deal-Screening Bias Audit Checklist" project
-- [ ] Practice the first AI-simulated sourcing case study
+- [x] Create comprehensive master study notes in LaTeX format (Saved to [behavioral\_finance\_pe\_vc\_notes.tex](file:///C:/Users/HP/onedrive/desktop/behavioral-finance-duke-university/behavioral_finance_pe_vc_notes.tex))
+- [ ] Compile the LaTeX document into PDF using an online LaTeX editor (e.g., Overleaf) or local compiler
+- [ ] Print the notes for study and reference
+- [ ] Run the diagnostic frameworks and checklist templates on upcoming mock or real deal sourcing/diligence cases
 
 ---
 
 ### ❓ Blocking Questions & Confusions
-*(List any concepts that need further pressure-testing or partner guidance)*
-* **Q1:** How does Prospect Theory change how we calculate liquidation preferences for early-stage founder exits?
-* **Q2:** How can we quantitatively measure "Similarity Bias" inside a VC fund's historical portfolio?
+*(None currently outstanding. Math derivations and frameworks have been integrated into the notes.)*
 
 ---
 
 ### 📝 Last Session Log
-* **Session Date:** 2026-07-16
-* **Completed:** Created the core study tracking system architecture (`INDEX.md`, `IDEAL-WORKFLOW.md`, `session-state.md`, `learning-log.md`, `deal-decision-journal.md`, `glossary.md`).
-* **Next Steps:** Begin Module 1 readings, focus on defining the difference between Expected Utility and Prospect Theory in a PE leverage buyout context.
+* **Session Date:** 2026-07-19
+* **Completed:** Generated the master LaTeX revision handbook matching the Stanford CS229 deep-dive notes style (with LaTeX equations, structured sections, checkpoints, and PE/VC-specific project skeletons). Saved to [behavioral\_finance\_pe\_vc\_notes.tex](file:///C:/Users/HP/onedrive/desktop/behavioral-finance-duke-university/behavioral_finance_pe_vc_notes.tex).
+* **Next Steps:** Compile the LaTeX code to PDF, print, and begin studying the mapped behavioral theories.
