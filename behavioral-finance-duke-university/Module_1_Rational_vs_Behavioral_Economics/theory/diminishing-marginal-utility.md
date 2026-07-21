@@ -1,0 +1,1 @@
+But humans are not calculators. We experience Diminishing Marginal Utility—the more wealth you have, the less additional happiness you get from each extra dollar.
