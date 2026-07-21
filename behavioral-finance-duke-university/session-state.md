@@ -6,26 +6,26 @@
 ---
 
 ### 📍 Current Position
-* **Current Module:** Modules 1-4 (Academic Foundations & PE/VC Applications)
-* **Status:** Master LaTeX Study Notes Generated & Saved
-* **Last Updated:** 2026-07-19
+* **Current Module:** Module 2: Heuristics and Biases (Topic 2 Theory Completed)
+* **Status:** Completed theory of Topic 2 in Module 2 (Representativeness Bias)
+* **Last Updated:** 2026-07-21
 
 ---
 
 ### 🎯 Active Focus Areas & Deliverables
-- [x] Create comprehensive master study notes in LaTeX format (Saved to [behavioral\_finance\_pe\_vc\_notes.tex](file:///C:/Users/HP/onedrive/desktop/behavioral-finance-duke-university/behavioral_finance_pe_vc_notes.tex))
-- [ ] Compile the LaTeX document into PDF using an online LaTeX editor (e.g., Overleaf) or local compiler
-- [ ] Print the notes for study and reference
-- [ ] Run the diagnostic frameworks and checklist templates on upcoming mock or real deal sourcing/diligence cases
+- [x] Create comprehensive master study notes in LaTeX format (Saved to [behavioral_finance_pe_vc_notes.tex](file:///C:/Users/HP/OneDrive/Desktop/behavioral-finance-duke-university/behavioral_finance_pe_vc_notes.tex))
+- [x] Complete theory for Module 2 Topic 2 (Representativeness Bias)
+- [ ] Solve practice questions / problem sets from DeepSeek for Module 2 Topic 2
+- [ ] Continue with Module 2 Topic 3 (Anchoring and Market Behavior)
 
 ---
 
 ### ❓ Blocking Questions & Confusions
-*(None currently outstanding. Math derivations and frameworks have been integrated into the notes.)*
+*(None currently outstanding.)*
 
 ---
 
 ### 📝 Last Session Log
-* **Session Date:** 2026-07-19
-* **Completed:** Generated the master LaTeX revision handbook matching the Stanford CS229 deep-dive notes style (with LaTeX equations, structured sections, checkpoints, and PE/VC-specific project skeletons). Saved to [behavioral\_finance\_pe\_vc\_notes.tex](file:///C:/Users/HP/onedrive/desktop/behavioral-finance-duke-university/behavioral_finance_pe_vc_notes.tex).
-* **Next Steps:** Compile the LaTeX code to PDF, print, and begin studying the mapped behavioral theories.
+* **Session Date:** 2026-07-21
+* **Completed:** Finished studying the theory of the second topic in Module 2 (The Representativeness Bias).
+* **Next Steps:** Solve the practice questions from DeepSeek related to Module 2 Topic 2 before moving on to Topic 3.

@@ -23,6 +23,15 @@
 
 ### 📝 Log History
 
+### 📆 Date: 2026-07-21 | Session Duration: 1.0 Hours
+* **Topics Covered:** Module 2, Topic 2 (The Representativeness Bias - Theory)
+* **💡 What Clicked (Insights):**
+  * Completed the core theory behind representativeness heuristics and how stereotyping affects probability judgment in markets and deal screening.
+* **❓ What Confused Me (Gaps):**
+  * Need application practice through problem sets to test retention and calculation nuances.
+* **🚀 Next Session Action Items:**
+  * Continue with and work through the practice questions provided by DeepSeek for Module 2 Topic 2.
+
 ### 📆 Date: 2026-07-19 | Session Duration: 2.0 Hours
 * **Topics Covered:** Master Notes Generation in LaTeX (Academic & PE/VC Applied Integration)
 * **💡 What Clicked (Insights):**
